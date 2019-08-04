@@ -1,15 +1,3 @@
-# CaTrack
-
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-
-*Tracks a cat with various sensors and publishes it as device_tracker via [AppDaemon](https://github.com/home-assistant/appdaemon) to Home Assistant.*
-
-**This will be completely changed soon. It is not recommended to use this now.**
-
-## Installation
-
-Use [HACS](https://github.com/custom-components/hacs) or [download](https://github.com/benleb/ad-catrack/releases) the `catrack` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `catrack` module.
-
 ## App configuration
 
 ```yaml
